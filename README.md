@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio
+# 🌐 Personal Portfolio with REACT
 
 🛠️ Technologies Used
 React: A JavaScript library for building user interfaces.
