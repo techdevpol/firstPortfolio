@@ -10,16 +10,18 @@ Node.js: For development environment setup.
 📂 Project Structure
 The project is organized as follows:
 
-├── src
-│   ├── assets          # Images, icons, and other assets
-│   ├── components      # Reusable components like buttons, headers, etc.
-│   ├── sections        # Different sections of the portfolio (About, Projects, etc.)
-│   ├── common          # Shared utilities (ThemeContext, helpers, etc.)
-│   ├── App.jsx         # Main application file
-│   └── index.jsx       # Entry point for React
-├── public              # Public assets like favicons
-├── package.json        # Project dependencies and scripts
-└── README.md           # Project documentation (this file)
+📂 src
+├── 📁 assets          # Images, icons, and other assets
+├── 📁 components      # Reusable components like buttons, headers, etc.
+├── 📁 sections        # Different sections of the portfolio (About, Projects, etc.)
+├── 📁 common          # Shared utilities (ThemeContext, helpers, etc.)
+├── 📄 App.jsx         # Main application file
+└── 📄 index.jsx       # Entry point for React
+
+📂 public              # Public assets like favicons
+📄 package.json        # Project dependencies and scripts
+📄 README.md           # Project documentation (this file)
+
 
 
 🌑 Dark Mode Implementation
